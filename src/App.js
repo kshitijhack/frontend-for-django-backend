@@ -7,8 +7,6 @@ import BaseRouter from './routes';
 import 'antd/dist/antd.css';
 
 import CustomLayout from './containers/Layout';
-import ArticleList from './containers/ArticleListView';
-
 
 class App extends Component {
   render () {
